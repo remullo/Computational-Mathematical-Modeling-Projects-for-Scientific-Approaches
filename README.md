@@ -13,7 +13,7 @@ Here you may find many codes that I worked so far in many different fields and s
 Please feel free to use these codes, I really will be happy if it is useful to your project or if it will be embedded into any innovative technology. 
 
 ### I kindly ask to cite this repository in your paper:
-Costa, RBGM. 2021. Computational Mathematical Modeling Projects for Scientific Approaches. Natal (RN- Brazil): Github; https://github.com/remullo/Computational-Mathematical-Modeling-Projects-for-Scientific-Approaches
+Costa, RBGM. 2021. Computational Mathematical Modeling Projects for Scientific Approaches. Natal (RN- Brazil): Github; https://github.com/remullo/Computational-Mathematical-Modeling-Projects-for-Scientific-Approaches DOI: 10.5281/zenodo.5138229
 
 
 # Found any bugs?
