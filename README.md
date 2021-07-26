@@ -1,4 +1,6 @@
 # Computational Mathematical Modeling Projects for Scientific Approaches
+<a href="https://zenodo.org/badge/latestdoi/54357173"><img src="https://zenodo.org/badge/54357173.svg" alt="DOI">Here is the DOI number for further publishing</a>
+
 These are very handy algorithms to evaluate data through SciLab, specially to be used in complex functions.
 
 I hope you find those useful! Feel free to change or to mail me whenever it is needed.
